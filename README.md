@@ -3,7 +3,7 @@
 This connector extracts information from a doctype to put it in my visualization api : https://github.com/Debzou/API-Rest-Visualisation
 
 Doctype must look like :
-```json
+```sh
 [
   {
     "pseudo" : "pseudoConsumption",
