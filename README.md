@@ -1,4 +1,4 @@
-[Cozy][cozy] <YOUR SUPER NEW KONNECTOR NAME>
+[Cozy][cozy] <cozy-konnector-output>
 =======================================
 
 What's Cozy?
