@@ -1,3 +1,23 @@
+# Cozy-konnector-output
+
+This connector extracts information from a doctype to put it in my visualization api : https://github.com/Debzou/API-Rest-Visualisation
+
+Doctype must look like :
+```json
+[
+  {
+    "pseudo" : "pseudoConsumption",
+    "latitude" : value,
+    "longitude" : value,
+    "averagedailyconsumption" : value,
+    "averagemonthlyconsumption" : value,
+    "averageannualconsumption" : value
+  },
+  ...
+  ...
+]
+```
+
 [Cozy][cozy] <cozy-konnector-output>
 =======================================
 
